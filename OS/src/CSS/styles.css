@@ -1,0 +1,13 @@
+/* .btnNext {
+    -fx-font-size: 14px;
+    -fx-background-color: rgb(2, 247, 247);
+    -fx-font-weight: bold;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 50px;
+    -fx-text-fill: black;  
+} */
+
+.root {
+    -fx-background-color: black;
+    -fx-alignment:center;  
+}
